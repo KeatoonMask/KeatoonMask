@@ -10,7 +10,7 @@ I'm Finsi Ennes, an iOS Developer from Spain.
 - Sharing all this experiencies on [Instagram](https://www.instagram.com/finsi.code/)
 
 <h2>📝 Latest Blog Posts</h2>
-- [Part 1](https://finsi-ennes.medium.com/)
+<li><a href=https://levelup.gitconnected.com/building-an-ios-app-using-swiftui-combine-mvvm-architecture-part-1-7e5a1683a7aa/>HBuild an iOS app using SwiftUI + Combine + MVVM Architecture</a></li>
 
 
 <!--
