@@ -9,6 +9,14 @@ I'm Finsi Ennes, an iOS Developer from Spain.
 - Writing about what I’m learning on [Medium](https://finsi-ennes.medium.com/)
 - Sharing all this experiencies on [Instagram](https://www.instagram.com/finsi.code/)
 
+<h2>Latest Blog Posts</h2>
+  <ul>
+    <li>
+      <a href=https://levelup.gitconnected.com/building-an-ios-app-using-swiftui-combine-mvvm-architecture-part-1-7e5a1683a7aa/>
+      Building an iOS app using SwiftUI + Combine + MVVM </a>
+    </li>
+  </ul>
+
 <!--
 **KeatoonMask/KeatoonMask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
