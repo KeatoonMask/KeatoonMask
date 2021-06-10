@@ -6,8 +6,6 @@ I'm Finsi Ennes, an iOS Developer from Spain.
 - Full-time job at [Nomasystems](https://www.linkedin.com/company/nomasystems-s-l-/mycompany/)
 - Working on my first app (wip) 
 - Developing my own open source projects
-- Writing about what I’m learning on [Medium](https://finsi-ennes.medium.com/)
-- Sharing all this experiencies on [Instagram](https://www.instagram.com/finsi.code/)
 
 <h2>Latest Blog Posts</h2>
   <ul>
