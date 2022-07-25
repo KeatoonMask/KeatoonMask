@@ -4,14 +4,29 @@ I'm Finsi Ennes, an iOS Developer from Spain.
 
 - Swift, SwiftUI and Combine
 - Full-time job at [Nomasystems](https://www.linkedin.com/company/nomasystems-s-l-/mycompany/)
-- Working on my first app (wip) 
-- Developing my own open source projects
+- Building apps for fun
+- Sharing my learnings on social media
+
+<h2>My apps</h2>
+
+<h3>focused.</h3>
+Improve your focus and avoid distractions with <em>focused.</em> a minimalist Pomodoro timer. 
+  <ul>
+    <li>
+      <a href=https://apps.apple.com/us/app/focused/id1626040405/>
+      Available on the App Store</a>
+    </li>
+  </ul>
 
 <h2>Latest Blog Posts</h2>
   <ul>
     <li>
       <a href=https://levelup.gitconnected.com/building-an-ios-app-using-swiftui-combine-mvvm-architecture-part-1-7e5a1683a7aa/>
-      Building an iOS app using SwiftUI + Combine + MVVM ✨</a>
+      Developing an iOS App ✨</a>
+    </li>
+    <li>
+      <a href=https://levelup.gitconnected.com/building-an-ios-app-using-swiftui-combine-mvvm-architecture-part-1-7e5a1683a7aa/>
+      Building an iOS app using SwiftUI + Combine + MVVM ⚡️</a>
     </li>
      <li>
       <a href=https://medium.com/swlh/data-flow-in-swiftui-getting-started-with-state-and-binding-da3ba97fb144/>
@@ -43,4 +58,3 @@ I'm Finsi Ennes, an iOS Developer from Spain.
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
 </p>
-
