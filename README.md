@@ -2,10 +2,9 @@
 
 I'm Finsi Ennes, an iOS Developer from Spain.
 
-- Swift, SwiftUI and Combine
 - Full-time job at [Nomasystems](https://www.linkedin.com/company/nomasystems-s-l-/mycompany/)
 - Building apps for fun
-- Sharing my learnings on social media
+- Sharing my learnings on socials
 
 <h2>My apps</h2>
 
