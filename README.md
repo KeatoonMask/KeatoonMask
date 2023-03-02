@@ -2,7 +2,7 @@
 
 I'm Finsi Ennes, an iOS Developer from Spain.
 
-- Full-time job at [Nomasystems](https://www.linkedin.com/company/nomasystems-s-l-/mycompany/)
+- Full-time job at [Nomasystems](https://github.com/nomasystems)
 - Building apps for fun
 - Sharing my learnings on socials
 
